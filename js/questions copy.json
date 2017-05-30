@@ -1,0 +1,865 @@
+
+	{
+		"questions": [
+			{
+				
+				
+				"question"	: "Generally speaking, do you prefer being great at one thing, or good at several things?",
+				"option_1"	: "One Thing",
+				"option_2"	: "Several Things",
+				"score_1" 	: "3",
+				"score_2"  	: "3",
+				"aptitude_1": "Specialist",
+				"aptitude_2": "Generalist",
+				"background": "waves1.gif"
+				
+			},{
+			
+				"question"	: "Are you more inspired by beautiful things or beautiful ideas?",
+				"option_1"	: "Things",
+				"option_2"	: "Ideas",
+				"score_1" 	: "2",
+				"score_2"  	: "2",
+				"aptitude_1": "Motion_Graphics,Annual_Reports,Packaging,Logos",
+				"aptitude_2": "Book_Covers,Posters,Editorial,Environmental_Graphics",
+				"background": "waves2.gif"
+			
+			
+			},{
+				"question"	: "There’s a block of wood in the corner and your assignment is to make a toy boat out of it. Which part do you enjoy more, imagining how the boat will look, or actually making it?",
+				"option_1"	: "Imagining",
+				"option_2"	: "Making",
+				"score_1" 	: "1",
+				"score_2"  	: "1",
+				"aptitude_1": "Book_Covers,Posters,Environmental_Graphics,Editorial",
+				"aptitude_2": "Logos,Annual_Reports,Motion_Graphics",
+				"background": "waves3.gif"
+				
+			},{
+				
+				"question"	: "Would you rather work deeply on one project for a few months, or more broadly on several projects?",
+				"option_1"	: "Deeply",
+				"option_2"	: "Broadly",
+				"score_1" 	: "2",
+				"score_2"  	: "2",
+				"aptitude_1": "Annual_Reports,Editorial,In-house",
+				"aptitude_2": "Book_Covers,Posters,Packaging,Interactive,Logos,Motion_Graphics,Agency",
+				"background": "waves4.gif"
+				
+		
+			},{
+				"question"	: "When you’re working on a project, do you enjoy obsessing over and finessing the details?",
+				"option_1"	: "Yes",
+				"option_2"	: "No",
+				"score_1" 	: "2",
+				"score_2"  	: "0",
+				"aptitude_1": "Annual_Reports,Packaging,Logos,Book_Covers,Editorial",
+				"aptitude_2": "",
+				"background": "waves5.gif"
+			},{
+				
+			    "question"	: "At this point in your life, would you rather work longer hours for better pay, or fewer hours and less pay?",
+				"option_1"	: "Longer hours",
+				"option_2"	: "Fewer hours",
+				"score_1" 	: "2",
+				"score_2"  	: "2",
+				"aptitude_1": "Agency",
+				"aptitude_2": "In-house",
+				"background": "waves6.gif"
+			},{
+					
+				"question"	: "Does a fast-paced work environment stress you out easily?",
+				"option_1"	: "Yes",
+				"option_2"	: "No",
+				"score_1" 	: "2",
+				"score_2"  	: "2",
+				"aptitude_1": "In-house",
+				"aptitude_2": "Agency",
+				"background": "waves7.gif"
+			},{
+					
+				"question"	: "When describing a moral dilemma to a friend, can you easily think of metaphors to help make your point?",
+				"option_1"	: "Yes",
+				"option_2"	: "No",
+				"score_1" 	: "2",
+				"score_2"  	: "0",
+				"aptitude_1": "Book_Covers,Posters,Logos",
+				"aptitude_2": "Environmental_Graphics,Editorial,Interactive,Motion_Graphics,Packaging,Annual_Reports",
+				"background": "waves8.gif"
+				
+			},{
+				"question"	: "Do you like music videos more than the average person?",
+				"option_1"	: "Yes",
+				"option_2"	: "No",
+				"score_1" 	: "2",
+				"score_2"  	: "0",
+				"aptitude_1": "Motion_Graphics",
+				"aptitude_2": "",
+				"background": "waves9.gif"
+				
+			},{
+				"question"	: "Do you like to tinker? (maybe you took toys apart as a kid, or customized your Myspace page back in the day)",
+				"option_1"	: "Yes",
+				"option_2"	: "No",
+				"score_1" 	: "2",
+				"score_2"  	: "0",
+				"aptitude_1": "Interactive",
+				"aptitude_2": "",
+				"background": "waves10.gif"
+				
+			},{
+				"question"	: "Do you love to draw?",
+				"option_1"	: "Yes",
+				"option_2"	: "No",
+				"score_1" 	: "3",
+				"score_2"  	: "0",
+				"aptitude_1": "Logos",
+				"aptitude_2": "",
+				"background": "waves11.gif"	
+				
+			},{
+			 	
+			    "question"	: "You visit a museum to see a Van Gogh show. Do you think a lot about the way the exhibit guides people around?",
+				"option_1"	: "Yes",
+				"option_2"	: "No",
+				"score_1" 	: "1",
+				"score_2"  	: "0",
+				"aptitude_1": "Environmental_Graphics",
+				"aptitude_2": "",
+				"background": "waves12.gif"
+				
+			},{
+				
+				"question"	: "Is it important to you that the things you create be tactile? As opposed to having them live only on a screen.",
+				"option_1"	: "Yes",
+				"option_2"	: "No",
+				"score_1" 	: "1",
+				"score_2"  	: "0",
+				"aptitude_1": "Book_Covers,Posters,Environmental_Graphics,Editorial,Annual_Reports,Packaging",
+				"aptitude_2": "",
+				"background": "waves13.gif"
+			
+			},{
+						
+				"question"	: "Are you a programmer?",
+				"option_1"	: "Yes",
+				"option_2"	: "No",
+				"score_1" 	: "2",
+				"score_2"  	: "0",
+				"aptitude_1": "Interactive",
+				"aptitude_2": "",
+				"background": "waves14.gif"
+				
+			},{
+				
+				"question"	: "When visiting a museum, do you prefer art that requires user participation? As opposed to a painting on the wall that’s only meant to be looked at.",
+				"option_1"	: "Yes",
+				"option_2"	: "No",
+				"score_1" 	: "2",
+				"score_2"  	: "0",
+				"aptitude_1": "Environmental_Graphics,Interactive,Packaging",
+				"aptitude_2": "",
+				"background": "waves15.gif"
+		
+			},{
+				
+				"question"	: "Is the world of finance interesting to you?",
+				"option_1"	: "Yes",
+				"option_2"	: "No",
+				"score_1" 	: "1",
+				"score_2"  	: "0",
+				"aptitude_1": "Annual_Reports",
+				"aptitude_2": "",
+				"background": "waves16.gif"
+		
+			},{
+				
+			    "question"	: "Do you enjoy editing videos on your computer?",
+				"option_1"	: "Yes",
+				"option_2"	: "No",
+				"score_1" 	: "3",
+				"score_2"  	: "0",
+				"aptitude_1": "Motion_Graphics",
+				"aptitude_2": "",
+				"background": "waves17.gif"
+				
+				
+				
+				
+				},{
+				
+			    "question"	: "Are the fields of sociology or anthropology interesting to you?",
+				"option_1"	: "Yes",
+				"option_2"	: "No",
+				"score_1" 	: "1",
+				"score_2"  	: "0",
+				"aptitude_1": "Environmental_Graphics",
+				"aptitude_2": "",
+				"background": "waves18.gif"
+				
+				
+						
+			},{
+				
+			    "question"	: "Do you like magazines more than the average person?",
+				"option_1"	: "Yes",
+				"option_2"	: "No",
+				"score_1" 	: "3",
+				"score_2"  	: "0",
+				"aptitude_1": "Editorial",
+				"aptitude_2": "",
+				"background": "waves19.gif"
+							
+			},{
+				
+			    "question"	: "Do you love the internet?",
+				"option_1"	: "Yes",
+				"option_2"	: "No",
+				"score_1" 	: "2",
+				"score_2"  	: "0",
+				"aptitude_1": "Interactive",
+				"aptitude_2": "",
+				"background": "waves20.gif"
+			},{
+				
+			    "question"	: "Do you volunteer to for any political or non-profit organizations?",
+				"option_1"	: "Yes",
+				"option_2"	: "No",
+				"score_1" 	: "2",
+				"score_2"  	: "0",
+				"aptitude_1": "Posters",
+				"aptitude_2": "",
+				"background": "waves21.gif"
+				
+			},{
+				
+			    "question"	: "Do you have any posters hanging in your house?",
+				"option_1"	: "Yes",
+				"option_2"	: "No",
+				"score_1" 	: "2",
+				"score_2"  	: "0",
+				"aptitude_1": "Posters",
+				"aptitude_2": "",
+				"background": "waves22.gif"
+			
+			
+			},{
+				
+			    "question"	: "Are you good at recognizing symbolism?",
+				"option_1"	: "Yes",
+				"option_2"	: "No",
+				"score_1" 	: "2",
+				"score_2"  	: "0",
+				"aptitude_1": "Book_Covers",
+				"aptitude_2": "",
+				"background": "waves23.gif"
+			
+				
+			},{
+			
+			     "question"	: "Do you like creating interesting projects out of boring material? Is that an exciting challenge?",
+				"option_1"	: "Yes",
+				"option_2"	: "No",
+				"score_1" 	: "1",
+				"score_2"  	: "0",
+				"aptitude_1": "Annual_Reports",
+				"aptitude_2": "",
+				"background": "waves24.gif"
+		
+		
+			},{
+		
+		  "question"	: "Have you ever considered going to school to study architecture?",
+				"option_1"	: "Yes",
+				"option_2"	: "No",
+				"score_1" 	: "2",
+				"score_2"  	: "0",
+				"aptitude_1": "Environmental_Graphics",
+				"aptitude_2": "",
+				"background": "waves25.gif"
+		
+			}
+		],
+		"aptitudes": [
+			{		
+				"area"			: "Logos",
+				"name"			: "Logos",
+				"type"			: "aptitude",
+				"description"	: [
+					"Logos go by different names -  identity marks, logotypes, and word marks. They all do the same thing, they identify an organization. A good logo will capture a company’s essence in a way that is simple and memorable. Logo designers are often good at drawing. The best ones have the metaphorical sensibilities of a book cover designer combined with the aesthetic sensibilitiesof a packaging designer. That is, they can think of a good simple metaphor or symbol to represent the company and then design it with a high amount of polish.", 
+					"Many logo designers work for studios that specialize in branding, while others may be freelancers."
+				],
+				"designers"		: [{
+					"name"	: "Paul Rand",
+					"image"	: "logos_1.jpg",
+					"link"	: "http://paul-rand.com"
+					},{
+					"name"	: "Walter Landor",
+					"image"	: "logos_2.jpg",
+					"link"	: "https://aiga.org/medalist-walterlandor"
+					},{
+					"name"	: "Susan Kare",
+					"image"	: "logos_3.jpg",
+					"link"	: "http://kare.com"
+					},{
+					"name"	: "Herb Lubalin",
+					"image"	: "logos_4.jpg",
+					"link"	: "http://bit.ly/2e3mpxJ"
+					},{
+					"name"	: "Ivan Chermayeff",
+					"image"	: "logos_5.jpg",
+					"link"	: "http://ivanchermayeff.com"
+					},{
+					"name"	: "Mikey Burton",
+					"image"	: "logos_6.jpg",
+					"link"	: "http://mikeyburton.com"
+					}
+				],
+				"balance"		: 0,
+				"field_section_title" : "Outstanding examples of logo design:",
+				"examples"		: [{
+					"name"	: "Rosalyn Custom Totes",
+					"image"	: "logos_1.jpg",
+					"himage"	: "logos_1_hover.jpg",
+					"link"	: "http://brentcouchman.com/#/Gallery/Work/image_46066"
+					},{
+					"name"	: "Skarsgard Construction",
+					"image"	: "logos_2.jpg",
+					"himage"	: "logos_2_hover.jpg",
+					"link"	: "https://behance.net/tmcgrath"
+					},{
+					"name"	: "Overboard Cocktail Sauce",
+					"image"	: "logos_3.jpg",
+					"himage"	: "logos_3_hover.jpg",
+					"link"	: "http://jfletcherdesign.com/2009/08/overboard/"
+					},{
+					"name"	: "Virgin Records",
+					"image"	: "logos_4.jpg",
+					"himage"	: "logos_4_hover.jpg",
+					"link"	: "https://fastcodesign.com/3038726/fast-forward/the-evolution-of-the-virgin-logo"
+					},{
+					
+					"name"	: "Wrinkle & Crease",
+					"image"	: "logos_5.jpg",
+					"himage"	: "logos_5_hover.jpg",
+					"link"	: "https://dribbble.com/shots/1759771-Wrinkle-Crease-Brand-Elements"
+					},{
+					"name"	: "Bare Tea Company",
+					"image"	: "logos_6.jpg",
+					"himage"	: "logos_6_hover.jpg",
+					"link"	: "http://salihkucukaga.com/work/bare-tea/"
+					}
+				]
+				
+			},{
+				"area"			: "Packaging",
+				"name"			: "Senior Packaging",
+				"type"			: "aptitude",
+				"description"	: [
+					"The role of a packaging designer is to create appealing packaging for items such as food, beverages, clothes, cosmetics, and toys. He or she will be knowledgable about things like printing processes, paper stock, and die-cuts. They will know when to use four color printing or when spot colors would work better. Successful packaging uses devices such as humor, beauty, and nostalgia to elicit an emotional response response from the consumer. These designers pay special attention to how a package feels to the touch, how much it weighs, and what it smells like. Great packaging is important because it’s often the first interaction a customer has with a product. Food and beverage manufacturers in particular value great packaging because most consumers make purchases while in the store. So the companies appreciate any advantage they can get to capture the attention of shoppers. As a loose rule of thumb, packaging for high-end clients is created by agencies and design firms, and work for commodity products (cereal, flour, milk) is done in-house."
+					],
+				"designers"		: [{
+					"name"	: "Neville Brody",
+					"image"	: "packaging_1.jpg",
+					"link"	: "https://wikipedia.org/wiki/Neville_Brody"
+					},{
+					"name"	: "Steve Simpson",
+					"image"	: "packaging_2.jpg",
+					"link"	: "http://stevesimpson.com"
+					},{
+					"name"	: "Max Spector",
+					"image"	: "packaging_3.jpg",
+					"link"	: "http://maxspector.com"
+					},{
+					"name"	: "Margherita Porrà",
+					"image"	: "packaging_4.jpg",
+					"link"	: "http://arithmeticcreative.com"
+					},{
+					"name"	: "Jenney Stevens",
+					"image"	: "packaging_5.jpg",
+					"link"	: "http://cargocollective.com/jenneystevens"
+					}
+				],
+				"balance"		: 0,
+				"field_section_title" : "Outstanding examples of packaging design:",
+				"examples"		: [{
+					"name"	: "Tealicious Packaging",
+					"image"	: "packaging_1.jpg",
+					"himage"	: "packaging_1_hover.jpg",
+					"link"	: "https://behance.net/gallery/24131061/Tealicious"
+					},{
+					"name"	: "Saxton Cider",
+					"image"	: "packaging_2.jpg",
+					"himage"	: "packaging_2_hover.jpg",
+					"link"	: "http://bpando.org/2011/07/25/packaging-saxton-cider/"
+					},{
+					"name"	: "One Roaster One",
+					"image"	: "packaging_3.jpg",
+					"himage"	: "packaging_3_hover.jpg",
+					"link"	: "https://behance.net/gallery/23644057/One-Roaster-One-Quality"
+					},{
+					"name"	: "Bellwether Cheese",
+					"image"	: "packaging_4.jpg",
+					"himage"	: "packaging_4_hover.jpg",
+					"link"	: "http://markoliverinc.com/portfolio/bellwether-farms/"
+					},{
+					"name"	: "Nike",
+					"image"	: "packaging_5.jpg",
+					"himage"	: "packaging_5_hover.jpg",
+					"link"	: "http://adsarchive.com/nike-stadium/"
+					},{
+					"name"	: "Kefalonia",
+					"image"	: "packaging_6.jpg",
+					"himage"	: "packaging_6_hover.jpg",
+					"link"	: "http://mousegraphics.eu/works/kefalonia-fisheries"
+					}
+				]				
+			},{
+				"area"			: "Posters",
+				"name"			: "Poster",
+				"type"			: "aptitude",
+				"description"	: [
+					"A large segment of posters created today are called \"key art\" posters and they're used to promote movies, TV shows, and video games.  Often the style of these posters must match the art direction that’s been established in the film or TV show. For that reason, you don’t have as much creative liberty when designing them. Design driven posters on the other hand, like those shown below allow for more flexibility in what you can do, so they're more fun to make. Sadly in this digital age, it’s hard to make a living by designing only posters. But luckily many of the same concepts and tools used in poster design carry over to other mediums. That’s why many studios who are known for great poster design like Aesthetic Apparatus or The Heads of State, also create packaging, branding, and logos."
+					],
+				"designers"		: [{
+					"name"	: "Milton Glaser",
+					"image"	: "posters_1.jpg",
+					"link"	: "https://miltonglaser.com"
+					},{
+					"name"	: "Paula Scher",
+					"image"	: "posters_2.jpg",
+					"link"	: "https://wikipedia.org/wiki/Paula_Scher"
+					},{
+					"name"	: "April Greiman",
+					"image"	: "posters_3.jpg",
+					"link"	: "http://aprilgreiman.com"
+					},{
+					 "name"	: "Erik Nitsche",
+					"image"	: "posters_4.jpg",
+					"link"	: "http://designishistory.com/1940/erik-nitsche/"
+					},{
+					"name"	: "El Lissitzky",
+					"image"	: "posters_5.jpg",
+					"link"	: "https://wikipedia.org/wiki/El_Lissitzky"
+					},{
+					"name"	: "Jacqueline Casey", 
+					"image"	: "posters_6.jpg",
+					"link"	: "http://bit.ly/2e3cOqB"
+					}
+				],
+				"balance"		: 0,
+				"field_section_title" : "Outstanding examples of poster design:",
+				"examples"		: [{
+					"name"	: "Lehigh University",
+					"image"	: "posters_1.jpg",
+					"himage"	: "posters_1_hover.jpg",
+					"link"	: "http://theheadsofstate.com/work/lehigh/"
+					},{
+					"name"	: "Turner Duckworth",
+					"image"	: "posters_2.jpg",
+					"himage"	: "posters_2_hover.jpg",
+					"link"	: "http://turnerduckworth.com/"
+					},{
+					"name"	: "Netflix",
+					"image"	: "posters_3.jpg",
+					"himage"	: "posters_3_hover.jpg",
+					"link"	: "http://adland.tv/ooh/ddb-canada-designs-some-great-posters-their-netflix-campaign"
+					},{
+					"name"	: "iExplore",
+					"image"	: "posters_4.jpg",
+					"himage"	: "posters_4_hover.jpg",
+					"link"	: "https://coloribus.com/adsarchive/prints/iexplore-africa-8648905/"
+					},{
+					"name"	: "Liz Phair",
+					"image"	: "posters_5.jpg",
+					"himage"	: "posters_5_hover.jpg",
+					"link"	: "http://aestheticapparatus.com/portfolio/print-archive/"
+					},{
+				    "name"	: "The New Pornographers",
+					"image"	: "posters_6.jpg",
+					"himage"	: "posters_6_hover.jpg",
+					"link"	: "http://aestheticapparatus.com/portfolio/print-archive/"
+					}
+				]				
+			},{
+				"area"			: "Book_Covers",
+				"name"			: "Book Covers",
+				"type"			: "aptitude",
+				"description"	: [
+					"A good book cover should capture a person's attention at a glance. Unlike packaging design which is similar, a book cover needs a concept to be successful. A concept can evoke a mood or feeling that matches the tone of the book. A cover without a concept won’t compel someone to pick it up. It And that will reflect poorly on the author. The shopper thinks \"if this cover is bad, the book must be bad too\". Book cover designers are also similar to logo designers in that they often use metaphors or symbols in order to hint at the book’s content. This can help illustrate a complex idea in a split-second."
+					],
+				"designers"		: [{
+					"name"	: "Chip Kid",
+					"image"	: "book_covers1.jpg",
+					"link"	: "http://chipkidd.com"
+					},{
+					"name"	: "Isabel Urbina Peña",
+					"image"	: "book_covers2.jpg",
+					"link"	: "http://isabelurbinapena.com"
+					},{
+					"name"	: "Peter Mendelsund",
+					"image"	: "book_covers3.jpg",
+					"link"	: "http://covers.petermendelsund.com"
+					},{
+					"name"	: "George Salter",
+					"image"	: "book_covers4.jpg",
+					"link"	: "http://bit.ly/2e1aA8u"
+					}
+				],
+				"balance"		: 0,
+				"field_section_title" : "Outstanding examples of book cover design:",
+				"examples"		: [{
+					"name"	: "Fidelity",
+					"image"	: "book_covers_1.jpg",
+					"himage"	: "book_covers_1_hover.jpg",
+					"link"	: "http://kellyblair.com/#/fidelity-michael-redhill/"
+					},{
+					"name"	: "Love Does",
+					"image"	: "book_covers_2.jpg",
+					"himage"	: "book_covers_2_hover.jpg",
+					"link"	: "http://conniegabbertdesign.com/Love-Does"
+					},{
+					"name"	: "The Third Plate",
+					"image"	: "book_covers_3.jpg",
+					"himage"	: "book_covers_3_hover.jpg",
+					"link"	: "http://gabrielewilson.com/projects/covers/"
+					},{
+					"name"	: "The Fortune Cookie Chronicles",
+					"image"	: "book_covers_4.jpg",
+					"himage"	: "book_covers_4_hover.jpg",
+					"link"	: "http://bit.ly/2dDctVR"
+					},{
+					"name"	: "One Perfect Day",
+					"image"	: "book_covers_5.jpg",
+					"himage"	: "book_covers_5_hover.jpg",
+					"link"	: "http://bookcoverarchive.com/book/one_perfect_day/"
+					},{
+					"name"	: "Columbine",
+					"image"	: "book_covers_6.jpg",
+					"himage"	: "book_covers_6_hover.jpg",
+					"link"	: "http://bookcoverarchive.com/book/columbine/"
+					}
+				]				
+			},{
+				"area"			: "Environmental_Graphics",
+				"name"			: "Environmental",
+				"type"			: "aptitude",
+				"description"	: [
+					"Environmental graphics is one part architecture, one part information design, and one part visual design. Instead of moving the eye through the page or screen, the designer moves a body through a space. Environmental graphics can be particularly powerful because it utilizes so many of the senses, like touch, sight, and hearing. This gives the designer many tools to work with to communicate a message. A talented environmental designer will also have an understanding of how humans behave in certain environments, such as in small rooms, in long hallways, or in a group. For that reason it involves elements of sociology and anthropology. Some studios specialize in environmental design, but traditional graphic design studios may take on these projects as well."
+					],
+				"designers"		: [{
+					"name"	: "Massimo Vignelli",
+					"image"	: "environmental_1.jpg",
+					"link"	: "https://en.wikipedia.org/wiki/Massimo_Vignelli"
+					},{
+					"name"	: "Stefan Sagmeister",
+					"image"	: "environmental_2.jpg",
+					"link"	: "http://sagmeisterwalsh.com"
+						},{
+					"name"	: "Lonny Israel",
+					"image"	: "environmental_3.jpg",
+					"link"	: "http://som.com"
+					},{
+					"name"	: "Traci Sym",
+					"image"	: "environmental_4.jpg",
+					"link"	: "https://segd.org/traci-sym"
+					}
+				],
+				"balance"		: 0,
+				"field_section_title" : "Outstanding examples of environmental design:",
+				"examples"		: [{
+					"name"	: "Chocolate Research Facility",
+					"image"	: "environmental_1.jpg",
+					"himage"	: "environmental_1_hover.jpg",
+					"link"	: "http://theasylum.com.sg/project/chocolate-research-facility/"
+					},{
+					"name"	: "Seattle Children's Hospital",
+					"image"	: "environmental_2.jpg",
+					"himage"	: "environmental_2_hover.jpg",
+					"link"	: "http://studio-sc.com/seattle-childrens-hospital.php"
+					},{
+					
+						"name"	: "New York Times Building",
+					"image"	: "environmental_3.jpg",
+					"himage"	: "environmental_3_hover.jpg",
+					"link"	: "http://pentagram.com/#/projects/87118"
+					},{
+						
+					"name"	: "Dog Signage",
+					"image"	: "environmental_4.jpg",
+					"himage"	: "environmental_4_hover.jpg",
+					"link"	: "http://slate.me/2dDgsle"
+					},{
+						
+				
+					"name"	: "WWDC Hyperwall",
+					"image"	: "environmental_5.jpg",
+					"himage"	: "environmental_5_hover.jpg",
+					"link"	: "https://youtube.com/watch?v=A1Efq55VCqE"
+					},{
+					"name"	: "NYC Museum Barricade",
+					"image"	: "environmental_6.jpg",
+					"himage"	: "environmental_6_hover.jpg",
+					"link"	: "http://poulinmorris.com/projects/environmental/Museum_of_the_City_of_New_York.html"
+					}
+				]		
+			},{
+				"area"			: "Motion_Graphics",
+				"name"			: "Motion Graphics",
+				"type"			: "aptitude",
+				"description"	: [
+					"Motion Graphics is part design, part filmmaking. It uses the principles of design to tell a story over time. Most motion graphics designers get trained in the fundamentals of design first and then learn the specifics of motion graphics later.  In a studio setting, it often takes multiple people (Designer, animator, 3d designer, compositor, sound designer…) to make a commercial motion graphics piece. For this reason, many people specialize in the part of the process they enjoy most. For example designers like Kim Dulaney are great at the initial phase and prefer to come up with the concept, look, and feel of a piece. Whereas someone like Daniel Coutino prefers animating the piece after the details have been worked out."
+					],
+				"designers"		: [{
+					"name"	: "Danny Yount",
+					"image"	: "motion_1.jpg",
+					"link"	: "http://dannyyount.com"
+					},{
+					"name"	: "Saul Bass",
+					"image"	: "motion_2.jpg",
+					"link"	: "https://en.wikipedia.org/wiki/Saul_Bass"
+					},{
+					"name"	: "Karin Fong",
+					"image"	: "motion_3.jpg",
+					"link"	: "http://artofthetitle.com/designer/karin-fong/"
+					},{
+					"name"	: "Kyle Cooper",
+					"image"	: "motion_4.jpg",
+					"link"	: "http://artofthetitle.com/designer/kyle-cooper/"
+					}
+				],
+				"balance"		: 0,
+				"field_section_title" : "Outstanding examples of motion graphic design:",
+				"examples"		: [{
+					"name"	: "Sundance Film Festival",
+					"image"	: "motion_graphics_1.jpg",
+					"himage"	: "motion_graphics_1_hover.jpg",
+					"link"	: "https://youtube.com/watch?v=aRBFW5QsE1Y"
+					},{
+					"name"	: "Man Seeking Woman",
+					"image"	: "motion_graphics_2.jpg",
+					"himage"	: "motion_graphics_2_hover.jpg",
+					"link"	: "http://artofthetitle.com/title/man-seeking-woman/"
+					},{
+					"name"	: "X-Games",
+					"image"	: "motion_graphics_3.jpg",
+					"himage"	: "motion_graphics_3_hover.jpg",
+					"link"	: "https://vimeo.com/43624160"
+					},{
+					"name"	: "Six Feet Under",
+					"image"	: "motion_graphics_4.jpg",
+					"himage"	: "motion_graphics_4_hover.jpg",
+					"link"	: "http://artofthetitle.com/title/six-feet-under/"
+					},{
+					"name"	: "Fresh Guacamole",
+					"image"	: "motion_graphics_5.jpg",
+					"himage"	: "motion_graphics_5_hover.jpg",
+					"link"	: "https://youtube.com/watch?v=dNJdJIwCF_Y"
+					},{
+					"name"	: "Blue Cross",
+					"image"	: "motion_graphics_6.jpg",
+					"himage"	: "motion_graphics_6_hover.jpg",
+					"link"	: "https://vimeo.com/60847955"
+					}
+				]		
+			},{
+				"area"			: "Interactive",
+				"name"			: "Interactive",
+				"type"			: "aptitude",
+				"description"	: [
+					"There are several types of designers who create websites and apps. These roles often overlap which leads people to have different definitions about what an interactive designer is. For example a interactive designer at an ad agency is more likely to be a visual designer.  But an interactive designer at a startup will likely have more front-end programming knowledge and less visual design skills. UX designers work with product managers and stakeholders to create user flows and personas which help make a website easy to use.", 
+					
+					"Glen Lipka sorts it out in a useful way:",
+					"\n\u2022 Graphic/Visual Design:: How it looks\n",
+					"\n\u2022 UI Design:: How it works before I touch it\n",
+					"\n\u2022 Interaction Design:: How it works after I touch it\n",
+					"\n\u2022 Web Design:: How it works in a browser\n",
+					"\n\u2022 UX Design:: How I feel about it\n"
+					],
+				"designers"		: [{
+					"name"	: "Jonathan Harris",
+					"image"	: "interactive_1.jpg",
+					"link"	: "http://number27.org"
+					},{
+					"name"	: "Arnaud Mericer",
+					"image"	: "interactive_2.jpg",
+					"link"	: "http://arnaud.area17.com"
+					},{
+					"name"	: "Joshua Davis",
+					"image"	: "interactive_3.jpg",
+					"link"	: "https://behance.net/joshuadavis"
+					}
+				],
+				"balance"		: 0,
+				"field_section_title" : "Outstanding examples of interactive design:",
+				"examples"		: [{
+					"name"	: "Mac Pro",
+					"image"	: "interactive_1.jpg",
+					"himage"	: "interactive_1_hover.jpg",
+					"link"	: "http://Behance.com"
+					},{
+					"name"	: "Sortie En Mer",
+					"image"	: "interactive_2.jpg",
+					"himage"	: "interactive_2_hover.jpg",
+					"link"	: "http://roasterone.com"
+					},{
+					"name"	: "Fold Festival",
+					"image"	: "interactive_3.jpg",
+					"himage"	: "interactive_3_hover.jpg",
+					"link"	: "https://thefwa.com/cases/kikk-festival-2015"
+					},{
+					"name"	: "Billy Harvey",
+					"image"	: "interactive_4.jpg",
+					"himage"	: "interactive_4_hover.jpg",
+					"link"	: "http://billyharvey.com"
+					},{
+					"name"	: "Beoplay",
+					"image"	: "interactive_5.jpg",
+					"himage"	: "interactive_5_hover.jpg",
+					"link"	: "http://awwwards.com/sites/beoplay-h6"
+					},{
+					"name"	: "Nike",
+					"image"	: "interactive_6.jpg",
+					"himage"	: "interactive_6_hover.jpg",
+					"link"	: "http://nike.com"
+					}
+				]		
+			},{
+				"area"			: "Annual_Reports",
+				"name"			: "Annual Reports",
+				"type"			: "aptitude",
+				"description"	: [
+					"Annual reports are an often overlooked specialty in graphic design. In the United States, the SEC requires public companies to provide an annual report to their shareholders. Because of this, the annual report field is stable and less susceptible to market fluctuations than other niches. Annual reports are usually created for large and conservative businesses, therefore your opportunity for creative expression within the medium may be limited. For that reason, you don’t see as much \"groundbreaking\" work from the field on sites like Dribbble or Behance. That’s not to say you can’t find ways to be creative, you can, but it’s a tempered creativity."
+					],
+				"designers"		: [{
+					"name"	: "Paul Rand",
+					"image"	: "annual_reports_1.jpg",
+					"link"	: "http://paul-rand.com/foundation/collateral/#.WAWtkmWo7EJ"
+					},{
+					"name"	: "Nicholas Feltron",
+					"image"	: "annual_reports_2.jpg",
+					"link"	: "http://feltron.com"
+					}
+				],
+				"balance"		: 0,
+				"field_section_title" : "Outstanding examples of annual report design:",
+				"examples"		: [{
+					"name"	: "Story",
+					"image"	: "annual_report_1.jpg",
+					"himage"	: "annual_report_1_hover.jpg",
+					"link"	: "http://querida.si/work/perdiz-magazine-archive/"
+					},{
+					"name"	: "Nac",
+					"image"	: "annual_report_2.jpg",
+					"himage"	: "annual_report_2_hover.jpg",
+					"link"	: "https://behance.net/gallery/20292965/NAC-Annual-Report"
+					},{
+					"name"	: "Celine",
+					"image"	: "annual_report_3.jpg",
+					"himage"	: "annual_report_3_hover.jpg",
+					"link"	: "https://behance.net/gallery/28296035/Cline-Annual-report"
+					},{
+					"name"	: "Feltron Report",
+					"image"	: "annual_report_4.jpg",
+					"himage"	: "annual_report_4_hover.jpg",
+					"link"	: "http://feltron.com/FAR07.html"
+					}
+				]		
+			},{
+				"area"			: "Editorial",
+				"name"			: "Editorial",
+				"type"			: "aptitude",
+				"description"	: [
+					"This is the design of books, magazines, and newspapers. Some editorial designers enjoy creating an overall system for the pages of a magazine, by creating a grid and telling a story throughout the piece. While others prefer to work on imagery for the cover stories, such as the Zach Galifianakis and Johnny Knoxville covers below. Since editorial designers work under the umbrella of publishing, the salaries for these designers is lower than a logo designer at a branding agency or an interactive designer at a funded startup."
+					],
+				"designers"		: [{
+					"name"	: "Tibor Kalman",
+					"image"	: "editorial_1.jpg",
+					"link"	: "http://bit.ly/2epDKfO"
+					},{
+					"name"	: "Cipe Pineles",
+					"image"	: "editorial_2.jpg",
+					"link"	: "http://bit.ly/2eo2PXc"
+					},{
+					"name"	: "David Carson",
+					"image"	: "editorial_3.jpg",
+					"link"	: "https://aiga.org/medalist-david-carson/"
+					},{
+					"name"	: "Alexey Brodovitch",
+					"image"	: "editorial_4.jpg",
+					"link"	: "https://aiga.org/medalist-alexeybrodovitch/"
+					},{
+					"name"	: "Josef Muller-Brockmann",
+					"image"	: "editorial_5.jpg",
+					"link"	: "http://blanka.co.uk/Design/Muller-Brockmann"
+					}
+				],
+				"balance"		: 0,
+				"field_section_title" : "Outstanding examples of editorial design:",
+				"examples"		: [{
+					"name"	: "Zach Galafianakis, GQ",
+					"image"	: "editorial_1.jpg",
+					"himage"	: "editorial_1_hover.jpg",
+					"link"	: "http://chelseacardinal.com/design/?cat=2&prj=58"
+					},{
+					"name"	: "Museum – A House for Learning",
+					"image"	: "editorial_2.jpg",
+					"himage"	: "editorial_2_hover.jpg",
+					"link"	: "https://behance.net/gallery/8382789/Museum-A-House-for-Learning-by-Pter-Gyoergy"
+					},{
+					"name"	: "MENÜ",
+					"image"	: "editorial_3.jpg",
+					"himage"	: "editorial_3_hover.jpg",
+					"link"	: "https://behance.net/gallery/21624313/MENUE"
+					},{
+					"name"	: "Influencia n°14",
+					"image"	: "editorial_4.jpg",
+					"himage"	: "editorial_4_hover.jpg",
+					"link"	: "https://behance.net/gallery/29138109/Influencia-n14"
+					},{
+					"name"	: "Jackass, GQ",
+					"image"	: "editorial_5.jpg",
+					"himage"	: "editorial_5_hover.jpg",
+					"link"	: "http://studio-sc.com/"
+					},{
+					"name"	: "History of the Future",
+					"image"	: "editorial_6.jpg",
+					"himage"	: "editorial_6_hover.jpg",
+					"link"	: "https://behance.net/gallery/28891191/History-of-the-Future-Book"
+					}
+				]		
+			},{
+				"area"			: "Specialist",
+				"name"			: "Specialist",
+				"type"			: "focus",
+				"description"	: [
+					"This kind of designer loves being great at one thing. Often in school they will beintensely drawn to a particular field and want to do only that. It’s hard to say if you’re meant to be a specialist or a generalist. Indeed, even some specialists who devote themselves to one medium, can grow tired of it years down the road and switch to something else. Often specialists will be freelancers who get called in by ad agencies and design firms for their unique skill. That’s because as a specialist, you may have deeper domain knowledge that the full-time designers at a company, who are more likely to be generalists.", 
+					"It may seem unwise to limit yourself to just one speciality. But art directors will often desire you more if you’ve devoted your time to doing just one thing, and it’s the thing they need. If you do only logos, and the other candidate does  logos, branding, websites, and editorial design, it makes you appear to be more proficient in that area."
+					]
+			},{
+				"area"			: "Generalist",
+				"name"			: "Generalist",
+				"type"			: "focus",
+				"description"	: [
+					"A designer who is a generalist enjoys working in multiple mediums. For the specialist, variety is more important than being great at one thing. Designer’s don’t usually classify themselves as either generalists or specialists in the way programmers do, but it’s still a helpful framework because it will help you figure out what environment you’ll like. The skill level of a generalist in a particular field, is usually less than that of a specialist. For example a designer at an ad agency might spend half the week on motion graphics, but she still probably won’t be as proficient as a full-time motion designer at Buck. That’s ok because, in that case her adaptability is more important than her talent level.", 
+					"The decision to become a generalist a usually happens organically. If you find you’re drawn to many different specialties in design, you may be a generalist."
+					]
+			},{
+				"area"			: "In-house",
+				"name"			: "In-house",
+				"type"			: "balance",
+				"description"	: [
+					"An in-house design position is often focused on one brand. For example if you’re a designer at Toyota, everything you design will be related to the company. Possible projects might entail a new website for an internal project, or working with the marketing department to design their newsletter. Depending on your seniority, you may have regular contact with the creative vendors the company uses. For example a creative director at Toyota could approve work done by their ad agency Saatchi & Saatchi.", 
+"Some beginner designers will avoid in-house positions early in their career, so that they can be exposed to multiple clients and working environments. In general, in-house work is seen as slightly less glamorous because many of the cutting edge work will be sourced out to vendors who have expertise in the area of the project. But that’s not always the case. If you’re interviewing for an in-house position, ask what types of projects are done internally, and what get sourced out."
+					]	
+			},{
+				"area"			: "Agency",
+				"name"			: "Agency",
+				"type"			: "balance",
+				"description"	: [
+					"A designer at an design firm or ad agency will usually work on multiple brands and you’ll regularly have new projects come across your desk. The types of projects you encounter will depend on your agencies speciality and what you’re good at. If your agency specializes in interactive work, it’s more likely that they’ll hire designers who specialize in that medium. If they take on multiple types projects likehttp://sagmeisterwalsh.com, it’s more likely you’ll be a generalist who can handle different types of projects.", 
+					"For designers just starting their career, getting exposed to multiple projects at an agency can be beneficial. You’ll get a sense of what it takes to create in that medium in a professional setting. Agency life can require long hours so it’s not for everyone. For that reason some people start at agencies for the first part of their career, then move on to an in-house position later."
+					]
+			}
+		]
+	}

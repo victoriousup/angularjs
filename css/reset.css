@@ -1,0 +1,135 @@
+
+    
+/*	--------------------------------------------------------------------------------------------------------
+                                            BASIC RESETS AND FIXES
+	-------------------------------------------------------------------------------------------------------- 
+*/
+	/* general reset */
+	* { margin: 0; padding: 0; border: 0; font-size: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; font: inherit;  vertical-align: top; background-repeat: no-repeat; font-size-adjust: 0.4}
+	* {  
+		-webkit-box-sizing: border-box; 
+		-moz-box-sizing:    border-box; 
+		box-sizing:         border-box; 
+	}
+	/*
+	:root {
+		font-size: 14px;
+		font-size: calc(.75vw + .75vh);
+	}	
+	*/
+	@media (max-width:600px)  { 
+		:root {
+		font-size: 10px;
+		}		
+	}
+	@media  (max-height: 500px) { 
+		:root {
+		font-size: 10px;
+		}		
+	}
+	
+	article, aside, details, figcaption, figure, footer, header, hgroup, nav, section {   display: block; }
+	audio, canvas, video { display: inline-block; *display: inline; *zoom: 1; }
+	audio:not([controls]) { display: none; }
+	[hidden] { display: none; }
+	html, body { width: 100%; height: 100%; width: 100vw; height: 100vh; }
+	
+	h1, h2, h3, p  {   text-align: left; orphans: 3;widows: 3;  }
+	h2, h3 { page-break-after: avoid;  }
+	a { outline: none; text-decoration: none; cursor: pointer; color: #0000FF; font-size: inherit;}
+	button {background: none;}
+	a:active,
+	button:active {transform:translatY(1px);}
+	a:hover {text-decoration: none;	}
+	a img { border: none; }
+    span, b, strong, em, i { font: inherit; color: inherit; }
+	b, strong {font-weight: bold;}
+	em { font-style: italic; }
+	img { border: 0; -ms-interpolation-mode: bicubic; vertical-align: middle; max-width: 100% !important;  page-break-inside: avoid;}
+	ol, ul { list-style: none; }
+	blockquote, q { quotes: none; }
+	blockquote:before, blockquote:after, q:before, q:after { content: ''; content: none; }
+	:focus {outline:0;}
+	table { border-collapse: collapse; border-spacing: 0; }
+	td { vertical-align: top; }
+	abbr[title] { border-bottom: 1px dotted; }
+	form { margin: 0; }
+	fieldset { border: 0; margin: 0; padding: 0; }
+	/* Correct overflow not hidden in IE9 */
+	svg:not(:root) { overflow: hidden; }
+	/* ledgend issues in IE7 */
+	legend { border: 0; *margin-left: -7px; padding: 0; }
+	input[type="checkbox"], input[type="radio"] { box-sizing: border-box; padding: 0; *width: 13px; *height: 13px; }
+	input[type="search"] { -webkit-appearance: textfield; -moz-box-sizing: content-box; -webkit-box-sizing: content-box; box-sizing: content-box; }
+	input[type="search"]::-webkit-search-decoration, input[type="search"]::-webkit-search-cancel-button { -webkit-appearance: none; }
+	input[type=text], input[type=date], input[type=password] { cursor: text; }
+	input, textarea, keygen, select, button {
+		font-family: inherit;
+	}
+	abbr[title]:after {
+	content: " (" attr(title) ")";
+	}
+	a[href^="#"]:after,
+	a[href^="javascript:"]:after {
+	content: "";
+	}
+	
+	p {
+		font: inherit;
+		text-align: inherit;
+		color: inherit;
+		font-size-adjust: 0.4;
+		border:1px solid #00ffff;
+	}
+	p + p{
+		/* margin-top: 1em; */
+		border:1px solid #ff0000;
+	}
+	
+    table { font-size:inherit; font:100%; }
+    select, input, textarea { font:99% sans-serif; }
+	
+	
+	.icon {
+		display: inline-block;
+	}
+
+	body {
+		visibility: visible;
+		transition: opacity .4s;
+		margin: 0;
+	}
+	body.preload {
+		visibility: hidden
+	}
+    /* makes font-size consistent, set font size with percentages*/
+    * { 
+		font-size: 1rem; 
+		*font-size:small; 
+		*font:x-small; 
+		line-height: 1.22em;
+		-webkit-text-size-adjust: 100%; 
+		-ms-text-size-adjust: 100%; 
+		-webkit-font-smoothing: antialiased; 
+		font-smoothing: always;
+		color: #222;
+	}
+	
+	/*	override .net */
+	.nav .level1,
+	.nav * { 
+		float: none!important;
+		border: solid 3px red;
+	}
+	
+	
+    .clearfix:after {
+        visibility: hidden;
+        display: block;
+        font-size: 0;
+        content: " ";
+        clear: both;
+        height: 0;
+    }
+	
+
